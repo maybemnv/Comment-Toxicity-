@@ -39,7 +39,7 @@ To use the Comment_Toxicity application, follow these instructions:
     ```
 
 2. **Follow the instructions in the notebook:**
-    - Open the `Comment-toxicity.ipynb` file in Jupyter Notebook.
+    - Open the `Comment-Toxicity.ipynb` file in Jupyter Notebook.
     - Execute the cells in the notebook sequentially.
     - Use the Gradio interface provided in the notebook to input comments and receive toxicity analysis results.
 
@@ -86,4 +86,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## Contact
 
-For any questions or suggestions, please open an issue or contact the project maintainer at manavkauah99@gmail.com .
+For any questions or suggestions, please open an issue or contact the project maintainer at manavkauahl99@gmail.com 
